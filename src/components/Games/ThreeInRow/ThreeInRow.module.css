@@ -1,0 +1,16 @@
+.score {
+    margin: 10px 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+.game_container {
+    width: 600px;
+    height: 600px;
+}
+
+.game {
+    position: relative;
+}
+
+
+
